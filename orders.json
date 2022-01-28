@@ -1,7 +1,19 @@
+
 [
     {
-        "customerId" : "",
-        "orderTotal" : "",
-        
+        "customerId" : "dYNpzFFstNdntXQ11rmm", //got customer id from firebase
+        "orderTotal" : 20,
+        "orderItems" : [
+            {
+                "productId" : "k4gec57HxqLQhzfi4GcS", //got product id from firebase
+                "quantity" : "2"
+            }
+        ],
+        "orderStatus" : "Processing",
+        "paymentInfo" : {
+            "paymentType" : "Visa",
+            "paymentStatus" : "Paid",
+            "cardNumber" : "4833"
+        }
     }
 ]
