@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Vitoria",
+        "lastName": "Roas",
+        "email": "vitoria@gmail.com",
+        "phoneNumber": "555-555-5555",
+        "shippingAddress": {
+            "streetAddress1": "7035 Beracasa Way",
+            "streetAddress2": "207",
+            "city": "Boca Raton",
+            "state": "FL",
+            "zipCode": "33433"
+        },
+        "billingAddress": {
+            "streetAddress1": "7035 Beracasa Way",
+            "streetAddress2": "207",
+            "city": "Boca Raton",
+            "state": "FL",
+            "zipCode": "33433"
+        }
+    },
+    {
+        "firstName": "Megan",
+        "lastName": "Martel",
+        "email": "megs@gmail.com",
+        "phoneNumber": "333-333-3333",
+        "shippingAddress": {
+            "streetAddress1": "123 Happy Lane",
+            "streetAddress2": "#13",
+            "city": "West Palm Beach",
+            "state": "FL",
+            "zipCode": "33333"
+        },
+        "billingAddress": {
+            "streetAddress1": "513 N. Military Trail",
+            "streetAddress2": "",
+            "city": "Delray Beach",
+            "state": "FL",
+            "zipCode": "33445"
+        }
+    },
+    {
+        "firstName": "Keren",
+        "lastName": "Charles",
+        "email": "keren@gmail.com",
+        "phoneNumber": "444-444-4444",
+        "shippingAddress": {
+            "streetAddress1": "3572 Bel Air Drive",
+            "streetAddress2": "Unit 3",
+            "city": "Highland Beach",
+            "state": "Florida",
+            "zipCode": "33466"
+        },
+        "billingAddress": {
+            "streetAddress1": "3572 Bel Air Drive",
+            "streetAddress2": "Unit 3",
+            "city": "Highland Beach",
+            "state": "Florida",
+            "zipCode": "33466"
+        }
+    }
+]

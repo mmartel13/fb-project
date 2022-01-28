@@ -1,0 +1,21 @@
+
+[
+    {
+    "name" : "Mac Lipstick Matte",
+    "description" : "Maybelline’s Volum’ Express Colossal Curl Bounce Mascara turns up the volume. This washable mascara delivers lasting bouncy lashes and defies clumps, smudges, and flakes. Its memory curl formula gives 24HR wear.",
+    "category" : "Lipstick",
+    "price" : 19
+    },
+    {
+    "name" : "Nars Bronzing Powder",
+    "description" : "NARS Bronzing Powder is an award-winning bronzer in shimmering shades for a long-wearing, sunkissed glow. Blendable. Indispensable.",
+    "category" : "Bronzer",
+    "price" : 38
+    },
+    {
+    "name" : "Maybelline Volum' Express Colossal Curl Bounce Mascara",
+    "description" : "MAC Lipstick Matte is a creamy, rich lipstick formula with high-color payoff in a matte finish.",
+    "category" : "Mascara",
+    "price" : 9.99
+    }
+]
