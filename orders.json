@@ -1,11 +1,11 @@
 
 [
     {
-        "customerId" : "dYNpzFFstNdntXQ11rmm", //got customer id from firebase
+        "customerId" : "dYNpzFFstNdntXQ11rmm", 
         "orderTotal" : 20,
         "orderItems" : [
             {
-                "productId" : "k4gec57HxqLQhzfi4GcS", //got product id from firebase
+                "productId" : "k4gec57HxqLQhzfi4GcS", 
                 "quantity" : "2"
             }
         ],
@@ -17,3 +17,4 @@
         }
     }
 ]
+
